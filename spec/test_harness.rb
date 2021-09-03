@@ -1,4 +1,4 @@
-require 'paypalhttp_ruby'
+require 'paypalhttp'
 require './lib/paypal-checkout-sdk'
 
 module TestHarness

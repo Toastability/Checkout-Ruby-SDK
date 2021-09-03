@@ -1,4 +1,4 @@
-require 'paypalhttp_ruby'
+require 'paypalhttp'
 require 'openssl'
 require_relative './version'
 

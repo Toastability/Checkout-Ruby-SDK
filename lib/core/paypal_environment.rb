@@ -1,4 +1,4 @@
-require 'paypalhttp_ruby'
+require 'paypalhttp'
 require "base64"
 
 module PayPal
